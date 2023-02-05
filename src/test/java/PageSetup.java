@@ -21,5 +21,12 @@ public class PageSetup {
     }
     public void pageTearUp(){
         //driver.close();
+
+        // Różnica pomiędzy driver.close() i driver.quit()
+
+
+
+
+
     }
 }
